@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/locustio/k8s-operator/commit/ef9f2b726a8fcceb18552f5778dd697f9c5ca263",
       "git:hexsha": "ef9f2b726a8fcceb18552f5778dd697f9c5ca263",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:09:18.665382+00:00"
     },
     {
       "@id": "https://repolex.ai/r/locustio/k8s-operator/commit/c889f76852d9330e3bff84fdf7653aee3c6351f5",
