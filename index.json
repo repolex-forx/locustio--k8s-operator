@@ -1,0 +1,11 @@
+{
+  "org": "locustio",
+  "repo": "k8s-operator",
+  "versions": [
+    {
+      "commit": "ef9f2b726a8fcceb18552f5778dd697f9c5ca263",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:09:18.665853+00:00"
+    }
+  ]
+}
